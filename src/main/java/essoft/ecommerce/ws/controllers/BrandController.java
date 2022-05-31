@@ -20,6 +20,7 @@ import essoft.ecommerce.core.results.Result;
 @RequestMapping("/api/brands")
 public class BrandController {
 	
+	//Brand controllers
 	private BrandService brandService;
 
 	@Autowired
